@@ -1,0 +1,24 @@
+<query>
+<diagnostics>
+<count>3</count>
+<mode>1</mode>
+<created>2020-11-15 11:03:56</created>
+</diagnostics>
+<quotes>
+<quote>
+<id>wieland</id>
+<author>Christoph Martin Wieland</author>
+<text>Launen sind eine Art von guten und bösen Feen, die durch die bloße Magie des Kolorits und Halbdunkels aus den Dingen, die vor uns stehen, machen können, was sie wollen.</text>
+</quote>
+<quote>
+<id>keller</id>
+<author>Gottfried Keller</author>
+<text>Wer heute einen Gedanken sät, erntet morgen die Tat, übermorgen die Gewohnheit, danach den Charakter und letztendlich sein Schicksal. Drum muß er bedenken, was er heute sät, und muß wissen, daß ihm sein Schicksal einmal in die Hand gegeben ist: heute.</text>
+</quote>
+<quote>
+<id>schiller</id>
+<author>Friedrich Schiller</author>
+<text>Fürchte dich nicht vor der Verwirrung außer dir, aber vor der Verwirrung in dir; strebe nach Einheit, aber suche sie nicht in der Einförmigkeit; strebe nach Ruhe, aber durch das Gleichgewicht, nicht durch den Stillstand deiner Tätigkeit.</text>
+</quote>
+</quotes>
+</query>
